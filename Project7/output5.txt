@@ -1,0 +1,49 @@
+Starting Expression Evaluation Program
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Blank Line - Do Nothing
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Blank Line - Do Nothing
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Expression result: 2
+
+
+Enter Expression: Blank Line - Do Nothing
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Expression result: 5
+
+
+Enter Expression: Blank Line - Do Nothing
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Expression result: 10
+
+
+Enter Expression: Blank Line - Do Nothing
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Expression result: 20
+
+
+Enter Expression: Quitting Program

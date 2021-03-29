@@ -1,0 +1,119 @@
+Starting Expression Evaluation Program
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Blank Line - Do Nothing
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Blank Line - Do Nothing
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Expression result: 32
+
+
+Enter Expression: Expression result: 33
+
+
+Enter Expression: Expression result: 34
+
+
+Enter Expression: Expression result: 35
+
+
+Enter Expression: Expression result: 36
+
+
+Enter Expression: Expression result: 37
+
+
+Enter Expression: Expression result: 38
+
+
+Enter Expression: Expression result: 39
+
+
+Enter Expression: Expression result: 40
+
+
+Enter Expression: Expression result: 41
+
+
+Enter Expression: Expression result: 42
+
+
+Enter Expression: Expression result: 43
+
+
+Enter Expression: Expression result: 44
+
+
+Enter Expression: Expression result: 45
+
+
+Enter Expression: Expression result: 46
+
+
+Enter Expression: Expression result: 47
+
+
+Enter Expression: Blank Line - Do Nothing
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Quitting Program

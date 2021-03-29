@@ -1,0 +1,22 @@
+# run the following commands
+# ./Project7 < input5.txt > myoutput5.txt
+# vimdiff output5.txt myoutput5.txt
+# to close vim - ESC :qall
+
+# following tests evaluate expressions with different depths of parentheses nesting.
+# each level has the form of (2+2*lowerLevel/2-1), hence each level of depth just adds 1 to its lowerLevel's answer.
+# so the final answer = depth of the inner most parenthesis.
+# search for "2+2*0/2-1" to locate the innermost level.
+
+# tests parenthesis depth of 2 - answer should be 2
+(2+2*(2+2*0/2-1)/2-1)
+
+# tests parenthesis depth of 5 - answer should be 5
+(2+2*(2+2*(2+2*(2+2*(2+2*0/2-1)/2-1)/2-1)/2-1)/2-1)
+
+# tests parenthesis depth of 10 - answer should be 10
+(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*0/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)
+
+# tests parenthesis depth of 20 - answer should be 20
+(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*(2+2*0/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)/2-1)
+q

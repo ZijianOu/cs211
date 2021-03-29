@@ -1,0 +1,112 @@
+Starting Expression Evaluation Program
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Blank Line - Do Nothing
+
+Enter Expression: Expression result: 1000
+
+
+Enter Expression: Expression result: 890
+
+
+Enter Expression: Expression result: 910
+
+
+Enter Expression: Expression result: 1110
+
+
+Enter Expression: Expression result: 5
+
+
+Enter Expression: Expression result: 10
+
+
+Enter Expression: Expression result: 250
+
+
+Enter Expression: Expression result: 120
+
+
+Enter Expression: Expression result: 1002
+
+
+Enter Expression: Expression result: 105
+
+
+Enter Expression: Expression result: 1
+
+
+Enter Expression: Expression result: 8
+
+
+Enter Expression: Expression result: 105
+
+
+Enter Expression: Expression result: 102
+
+
+Enter Expression: Expression result: 85
+
+
+Enter Expression: Expression result: 250
+
+
+Enter Expression: Expression result: 60
+
+
+Enter Expression: Expression result: 100
+
+
+Enter Expression: Expression result: 1000
+
+
+Enter Expression: Expression result: 110
+
+
+Enter Expression: Expression result: 90
+
+
+Enter Expression: Expression result: 10
+
+
+Enter Expression: Expression result: 200
+
+
+Enter Expression: Expression result: 3
+
+
+Enter Expression: Expression result: 4
+
+
+Enter Expression: Expression result: 14
+
+
+Enter Expression: Expression result: 6
+
+
+Enter Expression: Blank Line - Do Nothing
+
+Enter Expression: Invalid Input - For a list of valid commands, type ?
+
+Enter Expression: Invalid Expression.
+
+
+Enter Expression: Invalid Expression.
+
+
+Enter Expression: Invalid Expression.
+
+
+Enter Expression: Invalid Expression.
+
+
+Enter Expression: Quitting Program
